@@ -5,7 +5,6 @@ import { vertices } from "./constants.js";
 import { WORKGROUP_SIZE } from "./constants.js";
 import { GRID_SIZE } from "./constants.js";
 import { UPDATE_INTERVAL } from "./constants.js";
-import GUI from 'https://webgpufundamentals.org/3rdparty/muigui-0.x.module.js';
 
 
 
